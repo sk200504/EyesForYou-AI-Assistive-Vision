@@ -1,0 +1,35 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer camera view finder corners -->
+    <path
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M 32,42 L 32,32 L 42,32" />
+    <path
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M 66,32 L 76,32 L 76,42" />
+    <path
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M 32,66 L 32,76 L 42,76" />
+    <path
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M 66,76 L 76,76 L 76,66" />
+
+    <!-- Center Eye Icon -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 54,42 C 43,42 35,54 35,54 C 35,54 43,66 54,66 C 65,66 73,54 73,54 C 73,54 65,42 54,42 Z M 54,62 C 49.58,62 46,58.42 46,54 C 46,49.58 49.58,46 54,46 C 58.42,46 62,49.58 62,54 C 62,58.42 58.42,62 54,62 Z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M 54,50 C 51.79,50 50,51.79 50,54 C 50,56.21 51.79,58 54,58 C 56.21,58 58,56.21 58,54 C 58,51.79 56.21,50 54,50 Z" />
+</vector>

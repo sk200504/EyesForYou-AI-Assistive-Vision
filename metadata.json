@@ -1,0 +1,6 @@
+{
+  "name": "VisionScene AI",
+  "description": "Visual Assistive AI for Scene Understanding, Spatial Object Detection, Depth Estimation & Text-to-Speech",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
